@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Preoxy">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="Preoxy.jar">
+      <element id="module-output" name="Preoxy" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/fusesource/jansi/jansi/2.4.1/jansi-2.4.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
